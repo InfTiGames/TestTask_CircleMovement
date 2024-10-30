@@ -7,7 +7,7 @@ The project is about developing a mobile application for iOS or Android where a 
 
 </div>
 
-[demo](Demo.gif)
+![demo](Demo.gif)
 
 ### Unity Version: 2023.1.14f1
 
