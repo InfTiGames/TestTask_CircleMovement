@@ -1,0 +1,5 @@
+D:/GitRepositories/TestTask_CircleMovement/.utmp/RelWithDebInfo/6l414l40/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/GitRepositories/TestTask_CircleMovement/.utmp/RelWithDebInfo/6l414l40/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/GitRepositories/TestTask_CircleMovement/.utmp/RelWithDebInfo/6l414l40/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/GitRepositories/TestTask_CircleMovement/.utmp/RelWithDebInfo/6l414l40/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/GitRepositories/TestTask_CircleMovement/.utmp/RelWithDebInfo/6l414l40/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
