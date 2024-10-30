@@ -1,5 +1,13 @@
 # Project Information
+
+
+<div align="center">
+
 The project is about developing a mobile application for iOS or Android where a small circle appears on the screen. When the user taps anywhere on the screen, the circle moves to that location. If the user taps multiple times, the circle follows the sequence of all tapped points. There is also a slider in the top-right corner to adjust the speed of the circle's movement.
+
+</div>
+
+
 
 ### Unity Version: 2023.1.14f1
 
