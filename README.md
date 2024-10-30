@@ -1,4 +1,5 @@
 # Project Information
+The project is about developing a mobile application for iOS or Android where a small circle appears on the screen. When the user taps anywhere on the screen, the circle moves to that location. If the user taps multiple times, the circle follows the sequence of all tapped points. There is also a slider in the top-right corner to adjust the speed of the circle's movement.
 
 ### Unity Version: 2023.1.14f1
 
@@ -11,6 +12,8 @@ The Zenject framework was used.
 
 ### State Management:
 The State pattern was applied to control the states of the circle.
+
+### Command pattern
 The Command pattern was used to handle the command queue.
 Simplified versions of these patterns were used, including only the necessary functionality to complete the test assignment.
 
